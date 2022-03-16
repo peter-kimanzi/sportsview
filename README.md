@@ -2,3 +2,5 @@
 school website
 
 ## Technologies used
+* HTML
+* 
