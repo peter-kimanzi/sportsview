@@ -6,7 +6,7 @@ school website
 * CSS
 * Bootstrap
 
-live website can be view here 
+live website can be view here  https://peter-kimanzi.github.io/sportsview/
 
 
 <h3>Copyright (c) 2022 emdeechege <h3>
