@@ -6,6 +6,8 @@ school website
 * CSS
 * Bootstrap
 
+download zip or clone repo. All required files are provided
+
 live website can be view here  https://peter-kimanzi.github.io/sportsview/
 
 
