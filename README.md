@@ -3,4 +3,4 @@ school website
 
 ## Technologies used
 * HTML
-* 
+* CSS
