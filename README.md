@@ -6,6 +6,8 @@ school website
 * CSS
 * Bootstrap
 
+live website can be view here 
+
 
 <h3>Copyright (c) 2022 emdeechege <h3>
 
