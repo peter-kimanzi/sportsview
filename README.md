@@ -1,4 +1,4 @@
 # sportsview
 school website
 
-Technologies used
+## Technologies used
